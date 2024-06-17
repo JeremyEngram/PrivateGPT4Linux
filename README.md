@@ -4,7 +4,7 @@
 ## How to install
 
 ```
-curl -LO "https://raw.githubusercontent.com/MichaelSebero/PrivateGPT4Linux/main/installer.sh"
+curl -LO "https://github.com/JeremyEngram/PrivateGPT4Linux/blob/main/installer.sh"
 
 sh installer.sh
 ```
