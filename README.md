@@ -4,9 +4,9 @@
 ## How to install
 
 ```
-curl -LO "https://github.com/JeremyEngram/PrivateGPT4Linux/blob/main/installer.sh"
-
-sh installer.sh
+sudo apt install python-pip
+git clone https://github.com/JeremyEngram/PrivateGPT4Linux.git; cd PrivateGPT4Linux; sudo chmod +x installer.sh
+sudo ./installer.sh
 ```
 
 ## How to use
